@@ -1,0 +1,59 @@
+#1.An old lady kept her bank account number(s) written in different pages of hr diary as shown below.
+How many different account number has she written?
+Ans:-1. 1 account numbers-all entries are the same
+
+#2.A website list contact details in four different place as shown below
+How many sets for contact details does the website list
+Ans:-2.just 1-all set are the same
+
+#3. A stealth submarine in enemy waters made four distress call and sent out four coded signals as shown below.
+How many different coded signal did the submarine send out
+Ans:-1.just 1-all coded signals are the same.
+
+#4. How many words and punctiation marks are different between the two statement
+statement A:The children in the choir sung,"the apple tart is nice, in rooms without mice!"
+statement B:The children in the choir snug,"the apple tart is mice, in rooms without nice!"
+Ans:-3.There are three differences between statement A and statement B.
+
+#5.It was snowing heavily outside. Mark had a pullover on, Eric was wearing a new woolen sweater. 
+Maurine was wearing cotton slacks paired with a pashmina, full-sleeve top. 
+Elle looked cool in a pink leather jacket. Mark and Elle were wearing sneakers, 
+Maurine had her boots on, and Eric refused to wear any footwear other than his favorite pair of flip flops.
+
+
+Who among the four had wet feet from the snow? was snowing heavily outside. Mark had a pullover on,
+ Eric was wearing a new woolen sweater. Maurine was wearing cotton slacks paired with a pashmina, full-sleeve top. 
+Elle looked cool in a pink leather jacket. 
+Mark and Elle were wearing sneakers, Maurine had her boots on, and Eric refused to wear any footwear other than his favorite pair of flip flops.
+
+
+Who among the four had wet feet from the snow?
+Ans:-1.can not be determined
+
+#6.Matt was hiking with his friends. After sunrise, he wandered out of the campsite and kept walking straight to his right, following a nighthawk.
+ After a while, the nighthawk flew off and Matt found he was lost too. He headed back in the opposite direction.
+ After walking straight for some time, he could finally see the light of their campfire in the dark night.
+
+
+Is the above description consistent?
+
+
+SELECT ONLY ONE 1 
+
+Yes
+
+ 2 No
+Ans:-Yes
+
+#7.On the far side of town lived an eccentric, old mountaineer. 
+He had all his fingers amputated due to frostbite from an avalanche years ago.
+ He never used prosthetics, was a loner, and feared none. When a burglar attempted to break into his house recently,
+ he took his licensed firearm, ran after him, fired twice, and scared the intruder away.
+
+Is the above description consistent?
+SELECT ONLY ONE 1 
+
+Yes
+
+ 2 No
+Ans:-No
